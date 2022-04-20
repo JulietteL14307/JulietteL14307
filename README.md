@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulietteL14307
 - 👀 I’m interested in ... web design(UI/UX/front-end) and game development!
-- 🌱 I’m currently learning ... how to build my portfolio website from scratch!
+- 🌱 I’m currently learning ... the ins & outs of Java!
 - 💞️ I’m looking to collaborate on ... anything, I want to learn! I have a lot of really cool ideas and even want to build an open-source project... contact me!
 - 📫 How to reach me ... my work email is juliette.lee45@gmail.com & you can find me on LinkedIn -->  https://www.linkedin.com/in/juliette-lee-72082b1b7/
 
